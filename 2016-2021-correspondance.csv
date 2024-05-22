@@ -1,0 +1,225 @@
+c2016,c2021,Characteristic,Caractéristique,Topic
+1,1,"Population, 2021",Population,Population and dwellings
+9,9,0 to 14 years,0 à 14 ans,Age characteristics
+13,13,15 to 64 years,15 à 64 ans,Age characteristics
+24,24,65 years and over,65 ans et plus,Age characteristics
+40,40,Median age of the population,Âge médian de la population,Age characteristics
+663,113,Median total income in among recipients,Revenu total médian parmi les bénéficiaires,Income of individuals
+741,242,Total - Income statistics for private households - 100% data (26),,Income of households
+742,243,Median total income of household in previous year,Revenu total médian des ménages,Income of individuals
+743,244,Median after-tax income of household in 2020 ($),,Income of households
+744,245,Total - Income statistics for one-person private households - 100% data,,Income of households
+745,246,Median total income of one-person households in 2020 ($),,Income of households
+746,247,Median after-tax income of one-person households in 2020 ($),,Income of households
+747,248,Total - Income statistics for two-or-more-persons private households - 100% data,,Income of households
+748,249,Median total income of two-or-more-person households in 2020 ($),,Income of households
+749,250,Median after-tax income of two-or-more-person households in 2020 ($),,Income of households
+750,251,Total - Income statistics for private households - 25% sample data (27),,Income of households
+751,252,Average total income of household in 2020 ($),,Income of households
+752,253,Average after-tax income of household in 2020 ($),,Income of households
+753,254,Total - Income statistics for one-person private households - 25% sample data,,Income of households
+754,255,Average total income of one-person households in 2020 ($),,Income of households
+755,256,Average after-tax income of one-person households in 2020 ($),,Income of households
+756,257,Total - Income statistics for two-or-more-persons private households - 25% sample data,,Income of households
+757,258,Average total income of two-or-more-person households in 2020 ($),,Income of households
+758,259,Average after-tax income of two-or-more-person households in 2020 ($),,Income of households
+759,260,Total - Household total income groups in 2020 for private households - 100% data (21),,Income of households
+760,261,"Under $5,000",,Income of households
+761,262,"$5,000 to $9,999",,Income of households
+762,263,"$10,000 to $14,999",,Income of households
+763,264,"$15,000 to $19,999",,Income of households
+764,265,"$20,000 to $24,999",,Income of households
+765,266,"$25,000 to $29,999",,Income of households
+766,267,"$30,000 to $34,999",,Income of households
+767,268,"$35,000 to $39,999",,Income of households
+768,269,"$40,000 to $44,999",,Income of households
+769,270,"$45,000 to $49,999",,Income of households
+770,271,"$50,000 to $59,999",,Income of households
+771,272,"$60,000 to $69,999",,Income of households
+772,273,"$70,000 to $79,999",,Income of households
+773,274,"$80,000 to $89,999",,Income of households
+774,275,"$90,000 to $99,999",,Income of households
+775,276,"$100,000 and over",,Income of households
+776,277,"$100,000 to $124,999",,Income of households
+777,278,"$125,000 to $149,999",,Income of households
+778,279,"$150,000 to $199,999",,Income of households
+779,280,"$200,000 and over",,Income of households
+780,281,Total - Household after-tax income groups in 2020 for private households - 100% data (22),,Income of households
+781,282,"Under $5,000",,Income of households
+782,283,"$5,000 to $9,999",,Income of households
+783,284,"$10,000 to $14,999",,Income of households
+784,285,"$15,000 to $19,999",,Income of households
+785,286,"$20,000 to $24,999",,Income of households
+786,287,"$25,000 to $29,999",,Income of households
+787,288,"$30,000 to $34,999",,Income of households
+788,289,"$35,000 to $39,999",,Income of households
+789,290,"$40,000 to $44,999",,Income of households
+790,291,"$45,000 to $49,999",,Income of households
+791,292,"$50,000 to $59,999",,Income of households
+792,293,"$60,000 to $69,999",,Income of households
+793,294,"$70,000 to $79,999",,Income of households
+794,295,"$80,000 to $89,999",,Income of households
+795,296,"$90,000 to $99,999",,Income of households
+796,297,"$100,000 and over",,Income of households
+797,298,"$100,000 to $124,999",,Income of households
+798,299,"$125,000 to $149,999",,Income of households
+799,300,"$150,000 and over",,Income of households
+800,301,Total - Income statistics for economic families in private households - 100% data (28),,Income of households
+801,302,Median total income of economic families in previous year,Revenu total médian des familles économiques,Income of individuals
+802,303,Median after-tax income of economic family in 2020 ($),,Income of households
+803,304,Average family size of economic families,,Income of households
+804,305,Total - Income statistics for couple-only economic families in private households - 100% data,,Income of households
+805,306,Median total income of couple-only economic families in 2020 ($),,Income of households
+806,307,Median after-tax income of couple-only economic families in 2020 ($),,Income of households
+807,308,Average family size of couple-only economic families,,Income of households
+808,309,Total - Income statistics for couple-with-children economic families in private households - 100% data,,Income of households
+809,310,Median total income of couple-with-children economic families in 2020 ($),,Income of households
+810,311,Median after-tax income of couple-with-children economic families in 2020 ($),,Income of households
+811,312,Average family size of couple-with-children economic families,,Income of households
+812,313,Total - Income statistics for one-parent economic families in private households - 100% data,,Income of households
+813,314,Median total income of one-parent economic families in 2020 ($),,Income of households
+814,315,Median after-tax income of one-parent economic families in 2020 ($),,Income of households
+815,316,Average family size of one-parent economic families,,Income of households
+816,317,Total - Income statistics for persons aged 15 years and over not in economic families in private households - 100% data (29),,Income of households
+817,318,Median total income in 2020 ($) (30),,Income of households
+818,319,Median after-tax income in 2020 ($) (30),,Income of households
+819,320,Total - Income statistics for economic families in private households - 25% sample data (31),,Income of households
+820,321,Average total income of economic family in 2020 ($),,Income of households
+821,322,Average after-tax income of economic family in 2020 ($),,Income of households
+822,323,Total - Income statistics for couple-only economic families in private households - 25% sample data,,Income of households
+823,324,Average total income of couple-only economic families in 2020 ($),,Income of households
+824,325,Average after-tax income of couple-only economic families in 2020 ($),,Income of households
+825,326,Total - Income statistics for couple-with-children economic families in private households - 25% sample data,,Income of households
+826,327,Average total income of couple-with-children economic families in 2020 ($),,Income of households
+827,328,Average after-tax income of couple-with-children economic families in 2020 ($),,Income of households
+828,329,Total - Income statistics for one-parent economic families in private households - 25% sample data,,Income of households
+829,330,Average total income of one-parent economic families in 2020 ($),,Income of households
+830,331,Average after-tax income of one-parent economic families in 2020 ($),,Income of households
+831,332,Total - Income statistics for persons aged 15 years and over not in economic families in private households - 25% sample data (32),,Income of households
+832,333,Average total income in 2020 ($) (30),,Income of households
+833,334,Average after-tax income in 2020 ($) (30),,Income of households
+847,335,Total - LIM low-income status in 2020 for the population in private households - 100% data (33),,Income of households
+848,336,0 to 17 years,,Income of households
+849,337,0 to 5 years,,Income of households
+850,338,18 to 64 years,,Income of households
+851,339,65 years and over,,Income of households
+852,340,"In low income based on the Low-income measure, after tax (LIM-AT)",,Income of households
+853,341,0 to 17 years,,Income of households
+854,342,0 to 5 years,,Income of households
+855,343,18 to 64 years,,Income of households
+856,344,65 years and over,,Income of households
+857,345,"Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",,Income of households
+858,346,0 to 17 years (%),,Income of households
+859,347,0 to 5 years (%),,Income of households
+860,348,18 to 64 years (%),,Income of households
+861,349,65 years and over (%),,Income of households
+,350,Total - LICO low-income status in 2020 for the population in private households to whom the low-income concept is applicable - 100% data (33),,Income of households
+,351,0 to 17 years,,Income of households
+,352,0 to 5 years,,Income of households
+,353,18 to 64 years,,Income of households
+,354,65 years and over,,Income of households
+862,355,"In low income based on the Low-income cut-offs, after tax (LICO-AT)",,Income of households
+863,356,0 to 17 years,,Income of households
+864,357,0 to 5 years,,Income of households
+865,358,18 to 64 years,,Income of households
+866,359,65 years and over,,Income of households
+867,360,"Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)",,Income of households
+868,361,0 to 17 years (%),,Income of households
+869,362,0 to 5 years (%),,Income of households
+870,363,18 to 64 years (%),,Income of households
+871,364,65 years and over (%),,Income of households
+834,365,Total - Adjusted after-tax economic family income decile group for the population in private households - 100% data (34),,Income of households
+835,366,In bottom half of the distribution,,Income of households
+836,367,In bottom decile,,Income of households
+837,368,In second decile,,Income of households
+838,369,In third decile,,Income of households
+839,370,In fourth decile,,Income of households
+840,371,In fifth decile,,Income of households
+841,372,In top half of the distribution,,Income of households
+842,373,In sixth decile,,Income of households
+843,374,In seventh decile,,Income of households
+844,375,In eighth decile,,Income of households
+845,376,In ninth decile,,Income of households
+846,377,In top decile,,Income of households
+,378,Total - Inequality measures for the population in private households - 100% data (35),,Income of households
+,379,Gini index on adjusted household total income,,Income of households
+,380,Gini index on adjusted household market income,,Income of households
+,381,Gini index on adjusted household after-tax income,,Income of households
+,382,P90/P10 ratio on adjusted household after-tax income,,Income of households
+1617,1414,Total - Private households by tenure - 25% sample data (50),,Household characteristics
+1617,1415,Owner,,Household characteristics
+1618,1416,Renter,,Household characteristics
+1619,1465,"Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data (61)",,Household characteristics
+1668,1466,Spending less than 30% of income on shelter costs,,Household characteristics
+1669,1467,Spending 30% or more of income on shelter costs,,Household characteristics
+1698,2014,"Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data","Total - Plus haut certificat, diplôme ou grade pour la population âgée de 25 à 64 ans dans les ménages privés - Données-échantillon (25 %)","Highest certificate, diploma or degree"
+1699,2015,"No certificate, diploma or degree","Aucun certificat, diplôme ou grade","Highest certificate, diploma or degree"
+1700,2016,Secondary (high) school diploma or equivalency certificate,Diplôme d'études secondaires ou attestation d'équivalence,"Highest certificate, diploma or degree"
+1701,2017,"Postsecondary certificate, diploma or degree","Certificat, diplôme ou grade d'études postsecondaires","Highest certificate, diploma or degree"
+1702,2019,Apprenticeship or trades certificate or diploma,Certificat ou diplôme d'apprenti ou d'une école de métiers,"Highest certificate, diploma or degree"
+1703,2020,Trades certificate or diploma other than Certificate of Apprenticeship or Certificate of Qualification,Certificat ou diplôme d'une école de métiers autre qu'un Certificat d'apprenti ou Certificat de qualification,"Highest certificate, diploma or degree"
+1704,2021,Certificate of Apprenticeship or Certificate of Qualification,Certificat d'apprenti ou Certificat de qualification,"Highest certificate, diploma or degree"
+1705,2022,"College, CEGEP or other non-university certificate or diploma","Certificat ou diplôme d'un collège, d'un cégep ou d'un autre établissement non universitaire","Highest certificate, diploma or degree"
+1706,2023,University certificate or diploma below bachelor level,Certificat ou diplôme universitaire inférieur au baccalauréat,"Highest certificate, diploma or degree"
+1707,2024,"University certificate, diploma or degree at bachelor level or above","Certificat, diplôme ou grade universitaire au niveau du baccalauréat ou supérieur","Highest certificate, diploma or degree"
+1708,2025,Bachelor's degree,Baccalauréat,"Highest certificate, diploma or degree"
+1709,2026,University certificate or diploma above bachelor level,Certificat ou diplôme universitaire supérieur au baccalauréat,"Highest certificate, diploma or degree"
+1710,2027,"Degree in medicine, dentistry, veterinary medicine or optometry","Diplôme en médecine, en médecine dentaire, en médecine vétérinaire ou en optométrie","Highest certificate, diploma or degree"
+1711,2028,Master's degree,Maîtrise,"Highest certificate, diploma or degree"
+1712,2029,Earned doctorate,Doctorat acquis,"Highest certificate, diploma or degree"
+1865,2223,Total - Population aged 15 years and over by Labour force status - 25% sample data,Population totale âgée de 15 ans et plus selon la situation d'activité - Données-échantillon (25 %),Labour force status
+1866,2224,In the labour force,Population active,Labour force status
+1867,2225,Employed,Personnes occupées,Labour force status
+1868,2226,Unemployed,Chômeurs,Labour force status
+1869,2227,Not in the labour force,Population inactive,Labour force status
+1870,2228,Participation rate,Taux d'activité,Labour force status
+1871,2229,Employment rate,Taux d'emploi,Labour force status
+1872,2230,Unemployment rate,Taux de chômage,Labour force status
+1885,2247,Occupation - not applicable,Profession - sans objet,Occupation - Broad category - National Occupational Classification (NOC)
+1886,2248,All occupations,Toutes les professions,Occupation - Broad category - National Occupational Classification (NOC)
+1887,2249,Legislative and senior management occupations,Membres des corps législatifs et cadres supérieurs/cadres supérieures,Occupation - Broad category - National Occupational Classification (NOC)
+1888,2250,"Business, finance and administration occupations","Affaires, finance et administration",Occupation - Broad category - National Occupational Classification (NOC)
+1889,2251,Natural and applied sciences and related occupations,Sciences naturelles et appliquées et domaines apparentés,Occupation - Broad category - National Occupational Classification (NOC)
+1890,2252,Health occupations,Secteur de la santé,Occupation - Broad category - National Occupational Classification (NOC)
+1891,2253,"Occupations in education, law and social, community and government services","Enseignement, droit et services sociaux, communautaires et gouvernementaux",Occupation - Broad category - National Occupational Classification (NOC)
+1892,2254,"Occupations in art, culture, recreation and sport","Arts, culture, sports et loisirs",Occupation - Broad category - National Occupational Classification (NOC)
+1893,2255,Sales and service occupations,Vente et services,Occupation - Broad category - National Occupational Classification (NOC)
+1894,2256,"Trades, transport and equipment operators and related occupations","Métiers, transport, machinerie et domaines apparentés",Occupation - Broad category - National Occupational Classification (NOC)
+1895,2257,"Natural resources, agriculture and related production occupations","Ressources naturelles, agriculture et production connexe",Occupation - Broad category - National Occupational Classification (NOC)
+1896,2258,Occupations in manufacturing and utilities,Fabrication et services d'utilité publique,Occupation - Broad category - National Occupational Classification (NOC)
+1898,2260,Industry - not applicable,Industrie - sans objet,Industry - Sectors - North American Industry Classification System (NAICS)
+1899,2261,All industries,Toutes les industries,Industry - Sectors - North American Industry Classification System (NAICS)
+1900,2262,"Agriculture, forestry, fishing and hunting","Agriculture, foresterie, pêche et chasse",Industry - Sectors - North American Industry Classification System (NAICS)
+1901,2263,"Mining, quarrying, and oil and gas extraction","Extraction minière, exploitation en carrière, et extraction de pétrole et de gaz",Industry - Sectors - North American Industry Classification System (NAICS)
+1902,2264,Utilities,Services publics,Industry - Sectors - North American Industry Classification System (NAICS)
+1903,2265,Construction,Construction,Industry - Sectors - North American Industry Classification System (NAICS)
+1904,2266,Manufacturing,Fabrication,Industry - Sectors - North American Industry Classification System (NAICS)
+1905,2267,Wholesale trade,Commerce de gros,Industry - Sectors - North American Industry Classification System (NAICS)
+1906,2268,Retail trade,Commerce de détail,Industry - Sectors - North American Industry Classification System (NAICS)
+1907,2269,Transportation and warehousing,Transport et entreposage,Industry - Sectors - North American Industry Classification System (NAICS)
+1908,2270,Information and cultural industries,Industrie de l'information et industrie culturelle,Industry - Sectors - North American Industry Classification System (NAICS)
+1909,2271,Finance and insurance,Finance et assurances,Industry - Sectors - North American Industry Classification System (NAICS)
+1910,2272,Real estate and rental and leasing,Services immobiliers et services de location et de location à bail,Industry - Sectors - North American Industry Classification System (NAICS)
+1911,2273,"Professional, scientific and technical services","Services professionnels, scientifiques et techniques",Industry - Sectors - North American Industry Classification System (NAICS)
+1912,2274,Management of companies and enterprises,Gestion de sociétés et d'entreprises,Industry - Sectors - North American Industry Classification System (NAICS)
+1913,2275,"Administrative and support, waste management and remediation services","Services administratifs, services de soutien, services de gestion des déchets et services d'assainissement",Industry - Sectors - North American Industry Classification System (NAICS)
+1914,2276,Educational services,Services d'enseignement,Industry - Sectors - North American Industry Classification System (NAICS)
+1915,2277,Health care and social assistance,Soins de santé et assistance sociale,Industry - Sectors - North American Industry Classification System (NAICS)
+1916,2278,"Arts, entertainment and recreation","Arts, spectacles et loisirs",Industry - Sectors - North American Industry Classification System (NAICS)
+1917,2279,Accommodation and food services,Services d'hébergement et de restauration,Industry - Sectors - North American Industry Classification System (NAICS)
+1918,2280,Other services (except public administration),Autres services (sauf les administrations publiques),Industry - Sectors - North American Industry Classification System (NAICS)
+1919,2281,Public administration,Administrations publiques,Industry - Sectors - North American Industry Classification System (NAICS)
+1930,2603,Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data (200),,Main mode of commuting
+,2604,"Car, truck or van",,Main mode of commuting
+1931,2605,"Car, truck or van - as a driver",,Main mode of commuting
+1932,2606,"Car, truck or van - as a passenger",,Main mode of commuting
+1933,2607,Public transit,,Main mode of commuting
+1934,2608,Walked,,Main mode of commuting
+1935,2609,Bicycle,,Main mode of commuting
+1936,2610,Other method,,Main mode of commuting
+1937,2611,Total - Commuting duration for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data (201),,Commuting duration
+1938,2612,Less than 15 minutes,,Commuting duration
+1939,2613,15 to 29 minutes,,Commuting duration
+1940,2614,30 to 44 minutes,,Commuting duration
+1941,2615,45 to 59 minutes,,Commuting duration
+1942,2616,60 minutes and over,,Commuting duration
